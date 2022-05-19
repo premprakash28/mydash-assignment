@@ -1,0 +1,14 @@
+.container-flex {
+  display: flex;
+  gap: 2rem;
+}
+.text-box {
+  width: 100%;
+  height: 2rem;
+  /* box-shadow: 1px 1px #ddd inset; */
+}
+
+.error {
+  color: $color-red;
+  margin-bottom: 2rem;
+}
